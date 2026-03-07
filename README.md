@@ -36,6 +36,6 @@
   </tr>
 </table>
 
-## 🐍 Contribution Snake
+
 
 ![snake gif](https://github.com/niharika-278/niharika-278/blob/output/github-contribution-grid-snake.svg)

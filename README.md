@@ -1,3 +1,6 @@
+Hello, there!  I'm **Niharika**! 
+
+---
 
 ## Tech Stack
 <div align="center">
@@ -36,10 +39,23 @@
   </tr>
 </table>
 
-
-
-
+---
 
 ![GitHub Snake Light](https://github.com/niharika-278/niharika-278/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/niharika-278/niharika-278/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
+---
+
+<p align="center">
+  <b>Thank you for visiting!</b> <br>
+  <i>Let's connect! </i> <br><br>
+  
+  <a href="mailto:niharikaaaswani27@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00B8A9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+   </a>
+   <a href="https://www.linkedin.com/in/niharika-aaswani-48226032a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+   </a>
+</p>
 

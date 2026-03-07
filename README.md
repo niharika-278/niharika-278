@@ -38,4 +38,8 @@
 
 
 
-![snake gif](https://github.com/niharika-278/niharika-278/blob/output/github-contribution-grid-snake.svg)
+## 🐍 
+
+![GitHub Snake Light](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+

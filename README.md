@@ -5,7 +5,7 @@
 
 ---
 
-## Tech Stack
+## My Tech Stack
 <div align="center">
 
 <table>

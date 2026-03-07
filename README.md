@@ -1,4 +1,7 @@
-Hello, there!  I'm **Niharika**! 
+<p align="center">
+  <b>Hello, there! </b>
+  
+</p> 
 
 ---
 

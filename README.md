@@ -2,7 +2,7 @@
 
 # `> HELLO THERE!`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=FF2E88&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;ACCESS+GRANTED;Hi,+I'm+Niharika.;Full+Stack+Developer;AI+%26+Cybersecurity+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=gradient&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;ACCESS+GRANTED;Hi,+I'm+Niharika.;Full+Stack+Developer;AI+%26+Cybersecurity+Enthusiast" />
 
 <br>
 
@@ -23,7 +23,7 @@ Authenticating...
 
 > Niharika Aaswani
 > Computer Science Undergrad
-> Backend • Full Stack • AI
+> Backend • Full Stack • ML
 > Fun Fact: I have an unhealthy amount of patience for debugging.
 ```
 

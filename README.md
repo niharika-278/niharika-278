@@ -2,7 +2,7 @@
 
 # `> HELLO THERE!`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=gradient&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;ACCESS+GRANTED;Hi,+I'm+Niharika.;Full+Stack+Developer;AI+%26+Cybersecurity+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=500&color=gradient&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;ACCESS+GRANTED;Hi,+I'm+Niharika.;Full+Stack+Developer;AI+%26+Cybersecurity+Enthusiast" />
 
 <br>
 

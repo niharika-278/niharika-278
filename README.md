@@ -6,7 +6,11 @@
 
 <br>
 
-![MasterHead](https://i.pinimg.com/originals/89/15/7d/89157d3842f743497ac35a8fe6781531.gif)
+<img
+  src="https://i.pinimg.com/originals/89/15/7d/89157d3842f743497ac35a8fe6781531.gif"
+  alt="MasterHead"
+  width="700"
+/>
 
 </div>
 

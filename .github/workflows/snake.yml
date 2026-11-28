@@ -1,7 +1,7 @@
 name: Generate Snake
 
 on:
-  schedule: # Runs every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -11,13 +11,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Generate Snake SVG
+      - name: Generate Pink Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: niharika-278
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%23FF69B4&color_dots=%23FFF0F5,%23FFD6E7,%23FFB6D9,%23FF85C2,%23FF69B4
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FF69B4
 
       - name: Push Snake to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3

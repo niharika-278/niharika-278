@@ -55,12 +55,18 @@ Authenticating...
 ## `> 🐍`
 
 <picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://github.com/niharika-278/niharika-278/blob/output/github-contribution-grid-snake-dark.svg"/>
-
-<img src="https://github.com/niharika-278/niharika-278/blob/output/github-contribution-grid-snake.svg"/>
-
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/niharika-278/niharika-278/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/niharika-278/niharika-278/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/niharika-278/niharika-278/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 ---

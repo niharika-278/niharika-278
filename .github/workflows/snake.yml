@@ -9,18 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
-      - name: Generate Pink Snake SVG
+      - name: Generate Pink Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: niharika-278
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%23FF69B4&color_dots=%23FFF0F5,%23FFD6E7,%23FFB6D9,%23FF85C2,%23FF69B4
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FF69B4
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FF69B4&color_dots=%23FFF0F5,%23FFD6E7,%23FFB6D9,%23FF85C2,%23FF69B4
 
       - name: Push Snake to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

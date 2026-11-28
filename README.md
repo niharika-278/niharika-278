@@ -57,19 +57,18 @@ Authenticating...
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/niharika-278/niharika-278/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/niharika-278/niharika-278/output/github-contribution-grid-snake-dark.svg?v=3"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/niharika-278/niharika-278/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/niharika-278/niharika-278/output/github-contribution-grid-snake.svg?v=3"
   />
   <img
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/niharika-278/niharika-278/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/niharika-278/niharika-278/output/github-contribution-grid-snake.svg?v=3"
   />
 </picture>
 
----
 
 ---
 

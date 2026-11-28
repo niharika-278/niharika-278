@@ -17,8 +17,7 @@ jobs:
           github_user_name: niharika-278
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%23FF69B4&color_dots=%23FFF0F5,%23FFD6E7,%23FFB6D9,%23FF85C2,%23FF69B4
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FF69B4&color_dots=%23FFF0F5,%23FFD6E7,%23FFB6D9,%23FF85C2,%23FF69B4
-
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FF69B4&color_dots=%230D1117,%2316102A,%233B214D,%23A64D79,%23FF85C2
       - name: Push Snake to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:

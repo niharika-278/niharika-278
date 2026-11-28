@@ -54,10 +54,16 @@ Authenticating...
 
 ## `> 🐍`
 
-<img
-  src="https://raw.githubusercontent.com/niharika-278/niharika-278/output/github-contribution-grid-snake.svg?v=10"
-  alt="Pink GitHub Contribution Snake"
-/>
+<p>
+  <img
+    src="https://raw.githubusercontent.com/niharika-278/niharika-278/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
+    alt="Pink contribution snake (dark mode)"
+  />
+  <img
+    src="https://raw.githubusercontent.com/niharika-278/niharika-278/output/github-contribution-grid-snake.svg#gh-light-mode-only"
+    alt="Pink contribution snake (light mode)"
+  />
+</p>
 
 
 ---
